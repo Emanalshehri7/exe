@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<title>aboutme.html</title>
+</head>
+
+<body>
+	<p>
+		<h3> Eman ali alshehri</h3>
+	im 20 old , Creative , Energetic person ,<b>interested in Fashion </b>,<b>Photographer</b> , Coffee Addict
+	</p>
+	<ul>
+	<li>web based Design </li>
+    <li>ISPM </li>
+    <li>SA and D </li>	
+	</ul>
+	<table border="1">
+		<tr> 
+			<th> </th>
+			<th>favorite movies </th>
+			<th>favorite book</th>
+			<th>favorite TV show </th>
+		</tr>
+		<th>Name: </th>
+		<th> clueless </th>
+		<th>The Idiot </th>
+		<th>Tiny house nation </th>
+		<tr> 
+		
+		</tr>
+		<th>Image: </th> 
+		<th> <img src="clueless.jpeg" width="100"  height="200" </th>
+		<th> <img src="idiot.jpeg"width="100"  height="200"  </th> 
+		<th> <img src="tt.jpeg" width="100"  height="200" </th>
+		<tr> 
+		</tr>
+	</table>
+	<iframe height="200" width="400" <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28510.543370619253!2d50.0997698643394!3d26.718263225533576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e4a08ede862de3b%3A0x8ebbe40409720a10!2z2YbYrNmF2KnYjCDYsdij2LMg2KrZhtmI2LHYqQ!5e0!3m2!1sar!2ssa!4v1600449056687!5m2!1sar!2ssa" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe height="200" width="400"   <iframe width="560" height="315" src="https://www.youtube.com/embed/c9559JVpFV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+</body>
+</html>
